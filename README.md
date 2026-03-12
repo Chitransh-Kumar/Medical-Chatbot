@@ -18,10 +18,15 @@ The system processes medical PDFs, converts them into semantic embeddings, store
 # Features
 
 • Retrieval-Augmented Generation for accurate answers
+
 • Semantic search over medical documents
+
 • Vector database powered by Pinecone
+
 • Context-aware LLM responses
+
 • Modular pipeline for scalable AI applications
+
 • Flask-based conversational interface
 
 ---
